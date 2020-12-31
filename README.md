@@ -1,2 +1,2 @@
 # AutoResumenVideo
-Proyecto que crea resumen de un video
+Detección de cambios importantes en un video
